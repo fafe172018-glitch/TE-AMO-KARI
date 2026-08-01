@@ -12,7 +12,7 @@ title.textContent='Una carta para ti';
 type();
 
 // Contador de tiempo dinámico
-const start = new Date(2026, 2, 7); 
+const start = new Date(2026, 4, 7); 
 
 function tick() {
   const now = new Date();
