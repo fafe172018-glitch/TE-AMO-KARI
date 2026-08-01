@@ -1,0 +1,1 @@
+Coloca tu imagen como foto.jpg y tu canción como musica.mp3.
